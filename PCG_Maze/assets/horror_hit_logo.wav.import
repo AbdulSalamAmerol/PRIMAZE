@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/horror_hit_logo.wav-a9d038ac1b02ab200096014bbf630f39.sample"
+
+[deps]
+
+source_file="res://assets/horror_hit_logo.wav"
+source_md5="c84700137f6a81f1573d92abc5ad7252"
+
+dest_files=[ "res://.import/horror_hit_logo.wav-a9d038ac1b02ab200096014bbf630f39.sample" ]
+dest_md5="abcc1fd1eb293e009d8bd367f03c65ae"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

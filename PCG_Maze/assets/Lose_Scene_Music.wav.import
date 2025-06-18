@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Lose_Scene_Music.wav-8e4d96a2c015e12af362d322af32a403.sample"
+
+[deps]
+
+source_file="res://assets/Lose_Scene_Music.wav"
+source_md5="0fce6ae9b348b65cb687f2879c55c111"
+
+dest_files=[ "res://.import/Lose_Scene_Music.wav-8e4d96a2c015e12af362d322af32a403.sample" ]
+dest_md5="3a1389ee505fc5cc0a488f12d545addc"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

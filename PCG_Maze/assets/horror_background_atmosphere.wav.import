@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/horror_background_atmosphere.wav-66befa1c2a2dd29d673d465a78cf687c.sample"
+
+[deps]
+
+source_file="res://assets/horror_background_atmosphere.wav"
+source_md5="f8e84424a16e13c46225bdc8b5e616c4"
+
+dest_files=[ "res://.import/horror_background_atmosphere.wav-66befa1c2a2dd29d673d465a78cf687c.sample" ]
+dest_md5="e2ceb5ed9454328fe88e7168716354ee"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

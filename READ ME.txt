@@ -1,0 +1,3 @@
+GOTO PCG_Maze`s Main.gd and Change the Export Directory of PCG_Maze to your system`s PCG_Map_Algorithm Export Folder Directory:
+const EXPORT_DIR =""
+

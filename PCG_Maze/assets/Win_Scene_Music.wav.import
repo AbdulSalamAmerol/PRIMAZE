@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Win_Scene_Music.wav-bc920fd27eb6fb2bfb06172ab88a2481.sample"
+
+[deps]
+
+source_file="res://assets/Win_Scene_Music.wav"
+source_md5="8e101353a132a5d517e4a2b7c55efbb6"
+
+dest_files=[ "res://.import/Win_Scene_Music.wav-bc920fd27eb6fb2bfb06172ab88a2481.sample" ]
+dest_md5="df51efd6fa9e4bb0ad30811710ab1cb5"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/horror_game_point.wav-401440fe988006b76b34911d2f0d8a61.sample"
+
+[deps]
+
+source_file="res://assets/horror_game_point.wav"
+source_md5="02d7e0c2515d99975d713a364872a44f"
+
+dest_files=[ "res://.import/horror_game_point.wav-401440fe988006b76b34911d2f0d8a61.sample" ]
+dest_md5="e42cdace7dc054e398054a51ec5c2c34"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
